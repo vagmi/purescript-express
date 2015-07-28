@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "purescript-console": "0.1.x",
-    "purescript-node-fs": "0.7.1"
+    "purescript-node-fs": "0.7.1",
+    "purescript-test-unit": "2.0.0"
   }
 }
